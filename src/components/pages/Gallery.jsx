@@ -4,8 +4,8 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const photos = [
   "/gallery/image1.png",
-  "/gallery/photo1.jpg",
-  "/gallery/photo2.jpg",
+  "/gallery/photo1.png",
+  "/gallery/photo2.png",
   "/gallery/photo3.png",
   "/gallery/photo4.png",
 ];

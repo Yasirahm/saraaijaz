@@ -21,7 +21,7 @@ const PRICING_CONTENT = {
       id: 'plan-1',
       name: 'Plan One',
       badge: null,
-      price: '300',
+      price: '3000',
       period: 'per month',
       description: 'Ideal starting point for exploring foundational capabilities.',
       features: [
@@ -36,7 +36,7 @@ const PRICING_CONTENT = {
       id: 'plan-2',
       name: 'Plan Two',
       badge: 'Recommended',
-      price: '400',
+      price: '4000',
       period: 'per month',
       description: 'Most popular tier balance for expanding workflows and teams.',
       features: [
@@ -52,7 +52,7 @@ const PRICING_CONTENT = {
       id: 'plan-3',
       name: 'Plan Three',
       badge: null,
-      price: '500',
+      price: '5000',
       period: 'per month',
       description: 'Comprehensive tier for advanced requirements and organizations.',
       features: [
@@ -68,7 +68,7 @@ const PRICING_CONTENT = {
       id: 'plan-4',
       name: 'Plan Four (Extended)',
       badge: null,
-      price: '600',
+      price: '6000',
       period: 'per month',
       description: 'Expanded capabilities for growing multi-department teams.',
       features: [
@@ -83,7 +83,7 @@ const PRICING_CONTENT = {
       id: 'plan-5',
       name: 'Plan Five (Enterprise)',
       badge: 'High Scale',
-      price: '700',
+      price: '7000',
       period: 'per month',
       description: 'High-volume infrastructure and personalized service management.',
       features: [
