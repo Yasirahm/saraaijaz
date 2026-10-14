@@ -26,12 +26,13 @@ export default function App() {
       <main className="flex-grow">
         {/* 2. Hero Section */}
         <Hero />
+         <Pricing />
 
         {/* 3. About Section */}
         <About />
 
         {/* 4. Pricing Section */}
-        <Pricing />
+       
 
         {/* 5. Contact Section */}
         <Contact />
