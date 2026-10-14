@@ -1,0 +1,6 @@
+{
+  "name": "Clean Responsive React Website Starter Template",
+  "description": "A modern, generic, and fully responsive website starter template built with React.js, Tailwind CSS, and Lucide icons for customer demonstrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
