@@ -50,7 +50,7 @@ export default function Navbar() {
             aria-label="Home"
           >
             <div className="w-9 h-9 rounded-lg bg-indigo-600 text-white flex items-center justify-center shadow-sm group-hover:bg-indigo-700 transition-colors">
-              <Layers className="w-5 h-5" />
+             <b> S</b>
             </div>
             <span className="font-semibold text-lg tracking-tight text-neutral-900">
               {BRAND_NAME}

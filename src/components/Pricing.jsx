@@ -153,7 +153,7 @@ export default function Pricing() {
               className={`relative rounded-2xl p-8 flex flex-col justify-between transition-all duration-200 ${
                 plan.isPopular
                   ? 'bg-white border-2 border-indigo-600 shadow-xl lg:-translate-y-2'
-                  : 'bg-white border border-neutral-200/90 shadow-xs hover:border-neutral-300 hover:shadow-md'
+                  : 'bg-white border border-neutral-200/90 shadow-xs hover:border-neutral-900 hover:shadow-lg transition-all duration-500'
               }`}
             >
               {/* Optional Badge */}
@@ -221,7 +221,7 @@ export default function Pricing() {
                   }`}
                   aria-label={`Get in touch on WhatsApp regarding ${plan.name}`}
                 >
-                  <MessageCircle className="w-4 h-4 text-emerald-300 group-hover:scale-110 transition-transform" />
+                  <MessageCircle className="w-4 h-4 text-emerald-300 group-hover:scale-410 transition-transform" />
                   <span>Get in Touch</span>
                 </a>
                 <p className="text-center text-[11px] text-neutral-400 mt-2">

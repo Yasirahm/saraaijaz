@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const photos = [
+  "/gallery/image1.png",
   "/gallery/photo1.jpg",
   "/gallery/photo2.jpg",
   "/gallery/photo3.png",
